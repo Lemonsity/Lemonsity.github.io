@@ -1,18 +1,12 @@
 body{
-  background-color: #F0F8FF;
+	  background-color: black;
+	  height: 10vh;
+	  width: 10vw;
 }
 
-div.test{
-  position: relative;
-  top: 0%;
-  left: 0%;
-  height: 200px;
-  width: 200px;
-  background: #00F8FF;
-}
-div.test div.test2{
-  height: 500px;
-  width: 500px;
-  background: #000000;
+div.main{
+  	position: relative;
+  	height: 100%;
+  	overflow: hidden;
 }
 
