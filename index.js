@@ -18,7 +18,7 @@ function typeWriter() {
         }
         if (i == txt[line].length) {
             i = 0;
-            if (line < 7) {
+            if (line < 5) {
                 line++;
             } 
             else {
