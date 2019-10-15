@@ -1,6 +1,6 @@
 var i = 0;
 var line = 0;
-var txt = ["class Youzhang_Mark_Sun:", "skills = List[]", "def __init__(self):", "skills = []", "skills.extend([\"Python\", \"Java\", \"MySQL\", \"Algorithms\"])", "def about_me():", "GitHub = \"GitHub\""];
+var txt = ["class Youzhang_Mark_Sun:", "def __init__(self):", "self.skills = []", "self.skills.extend([\"Python\", \"Java\", \"MySQL\", \"Algorithms\"])", "def about_me():", "GitHub = \"GitHub\""];
 var gitText = "GitHub"
 var speed = 50;
 var speedSpace = 500;
@@ -18,7 +18,7 @@ function typeWriter() {
         }
         if (i == txt[line].length) {
             i = 0;
-            if (line < 8) {
+            if (line < 7) {
                 line++;
             } 
             else {
