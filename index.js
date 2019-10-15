@@ -1,6 +1,6 @@
 var i = 0;
 var line = 0;
-var txt = ["class Youzhang_Mark_Sun:", "def __init__(self):", "self.skills = []", "self.skills.extend([\"Python\", \"Java\", \"MySQL\", \"Algorithms\"])", "def about_me():", "GitHub = \"GitHub\""];
+var txt = ["class Youzhang_Mark_Sun:", "def __init__(self):", "self.skills = []", "self.skills.extend([\"Python\", \"Java\", \"MySQL\", \"Algorithms\"])", "def about_me(self):", "GitHub = \"GitHub\""];
 var gitText = "GitHub"
 var speed = 50;
 var speedSpace = 500;
