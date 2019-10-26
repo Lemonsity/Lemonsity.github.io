@@ -19,3 +19,8 @@ div.links {
 	left: 50%;
 	transform: translateX((-50%));
 }
+
+a {
+	text-decoration: none;
+	color: #4E92DF;
+}
