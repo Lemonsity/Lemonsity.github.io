@@ -1,0 +1,12 @@
+body {
+    font-family: 'Source Code Pro', monospace;
+	font-size: 16pt;
+	white-space: nowrap;
+}
+
+nav {
+    height: 50px;
+    width: 100vw;
+    padding: 0px;
+    margin: 0px;
+}
