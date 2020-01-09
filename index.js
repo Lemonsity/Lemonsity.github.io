@@ -26,8 +26,7 @@ function typeWriter() {
             i = 0;
             if (line < 6) {
                 line++;
-            } 
-            else {
+            } else {
                 check = false;
             }
         }
