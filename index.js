@@ -3,7 +3,7 @@ var line = 0;
 var txt = ["class Youzhang_Mark_Sun:", 
             "def __init__(self):", 
             "self.skills = []", 
-            "self.skills.extend([\"Python\", \"JavaScript\", \"Rust\", \"SQL\"])", 
+            "self.skills.extend([\"Software Engineering\", \"Functional Programming\", \"Mathematics\"])", 
             "def about_me(self):", 
             "GitHub = \"GitHub\"",
             "Resume = \"Resume\""];
